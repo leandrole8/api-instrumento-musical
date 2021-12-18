@@ -4,7 +4,7 @@
 
 #### Foram utilizados as seguintes tecnologias:
 
--Java 11
+- Java 11
 - MySQL driver
 - Spring Data JPA
 - Lombok
